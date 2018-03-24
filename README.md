@@ -23,4 +23,4 @@ Skrypt uruchomisz w terminalu:
 python <numer_zadania>.py
 ```
 
-Lekcja czwarta kursu [Python dla początkujących](https://www.flynerd.pl/tag/python-kurs)
+Lekcja 5 - całość dostępna jako kurs [Python dla początkujących](https://www.flynerd.pl/tag/python-kurs)
